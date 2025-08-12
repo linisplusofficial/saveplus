@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+  }
+
+.worker {
+    height: 25%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: white;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(to right, #0751c8, #031e43);
+  background-color: #002f85;
+}
+
+footer{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  padding: 15px;
+}
